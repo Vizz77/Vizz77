@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincenzo</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate CS student from Italy</h3>
 
 - 📫 How to reach me **v.pregadio.vp@gmail.com**
 
