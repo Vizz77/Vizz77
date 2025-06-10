@@ -9,5 +9,4 @@
 
 ## 📈 GitHub Stats
 
-![Vizz77's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vizz77&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vizz77&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
