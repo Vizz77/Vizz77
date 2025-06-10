@@ -8,4 +8,5 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Vizz77&count_private=true&show_icons=true&include_all_commits=true&theme=shadow_green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vizz77&layout=compact&count_private=true&token=ghp_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)
+
