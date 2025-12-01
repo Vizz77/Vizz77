@@ -1,4 +1,4 @@
-🔭 I’m currently working on Scale<br>🌱 I’m currently learning ...<br>
+🔭 I’m currently working on Scaleq <br>🌱 I’m currently learning ...<br>
 
 
 ## 🌐 Socials:
