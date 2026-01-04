@@ -1,4 +1,4 @@
-🔭 I’m currently working on Scaleq <br>🌱 I’m currently learning ...<br>
+🔭Build a full app in 6 months starting with zero exp , https://scaleq.app/ <br> In love with the process of learning hard stuff <br>
 
 
 ## 🌐 Socials:
