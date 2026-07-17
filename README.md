@@ -1,5 +1,4 @@
-🔭Build a full app in 6 months starting with zero exp , https://scaleq.app/ <br> In love with the process of learning hard stuff <br>
-
+Trying new thing failing at it , get up and learn , get good , move to great </br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincenzopregadio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:v.pregadio.vp@gmail.com) 
